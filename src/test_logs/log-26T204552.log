@@ -1,0 +1,4 @@
+764  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\stnal\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+2976 [main] INFO  com.phonebooks.tests.TestBase -- Start test addContactPositiveFromDataProviderTestwith data: [Oliver, Kann, 123456789123, ka123@vmv.com, Berlin, goalkeeper]

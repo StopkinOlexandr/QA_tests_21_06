@@ -1,0 +1,9 @@
+699  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\my_work\QA\QA_24_PhoneBook\PhoneBook\src\test\resources\testng.xml
+
+2860 [main] INFO  com.phonebook.tests.TestBase -- Start test loginPositiveTest with data: []
+3967 [main] INFO  com.phonebook.tests.TestBase -- PASSED: loginPositiveTest
+3967 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+3971 [main] INFO  com.phonebook.tests.TestBase -- Start test loginNegativeWithoutPasswordTest with data: []
+14922 [main] INFO  com.phonebook.tests.TestBase -- PASSED: loginNegativeWithoutPasswordTest
+14924 [main] INFO  com.phonebook.tests.TestBase -- ========================================================

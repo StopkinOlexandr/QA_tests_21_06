@@ -1,0 +1,51 @@
+715  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\my_work\QA\QA_24_PhoneBook\PhoneBook\src\test\resources\regr.xml
+
+2773 [main] INFO  com.phonebook.tests.TestBase -- Start test openHomePageTest with data: []
+2799 [main] INFO  com.phonebook.tests.TestBase -- PASSED: openHomePageTest
+2799 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+2802 [main] INFO  com.phonebook.tests.TestBase -- Start test existedUserRegistrationNegativeTest with data: []
+4244 [main] INFO  com.phonebook.tests.TestBase -- PASSED: existedUserRegistrationNegativeTest
+4244 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+4250 [main] INFO  com.phonebook.tests.TestBase -- Start test loginPositiveTest with data: []
+5017 [main] INFO  com.phonebook.tests.TestBase -- PASSED: loginPositiveTest
+5018 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+5028 [main] INFO  com.phonebook.tests.TestBase -- Start test addContactNegativeFromCsvFileTest with data: [Contact{name='Oliver', phone='123456789'}]
+27051 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactNegativeFromCsvFileTest
+27052 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+27053 [main] INFO  com.phonebook.tests.TestBase -- Start test addContactNegativeFromCsvFileTest with data: [Contact{name='Oliver1', phone='6789123'}]
+49126 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactNegativeFromCsvFileTest
+49126 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+49129 [main] INFO  com.phonebook.tests.TestBase -- Start test addContactNegativeFromCsvFileTest with data: [Contact{name='Oliver2', phone='2345678912311234'}]
+71337 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactNegativeFromCsvFileTest
+71337 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+71340 [main] INFO  com.phonebook.tests.TestBase -- Start test addContactNegativeFromCsvFileTest with data: [Contact{name='Oliver3', phone='34567891234561234'}]
+93407 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactNegativeFromCsvFileTest
+93407 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+93411 [main] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveFromCsvFileTest with data: [Contact{name='Oliver', phone='123456789123'}]
+105353 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveFromCsvFileTest
+105353 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+105354 [main] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveFromCsvFileTest with data: [Contact{name='Oliver1', phone='23456789123'}]
+117141 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveFromCsvFileTest
+117141 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+117149 [main] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveFromCsvFileTest with data: [Contact{name='Oliver2', phone='234567891231'}]
+128996 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveFromCsvFileTest
+128996 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+128997 [main] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveFromCsvFileTest with data: [Contact{name='Oliver3', phone='3456789123456'}]
+140762 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveFromCsvFileTest
+140762 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+140763 [main] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveFromDataProviderTest with data: [Oliver, Kan, 1234567890, kan@gm.com, Berlin, goalkeeper]
+152700 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderTest
+152700 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+152702 [main] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveFromDataProviderTest with data: [Oliver, Kan, 12345678912, kan+1@gm.com, Berlin, goalkeeper]
+164502 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderTest
+164502 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+164503 [main] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveFromDataProviderTest with data: [Oliver, Kan, 12345678913, kan+2@gm.com, Berlin, goalkeeper]
+176489 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderTest
+176489 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+176492 [main] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveTest with data: []
+188406 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveTest
+188406 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+188410 [main] INFO  com.phonebook.tests.TestBase -- Start test removeContactTest with data: []
+230718 [main] INFO  com.phonebook.tests.TestBase -- FAILED: removeContactTest
+230718 [main] INFO  com.phonebook.tests.TestBase -- ========================================================

@@ -1,0 +1,12 @@
+742  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\stnal\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+2941 [main] INFO  com.phonebook.tests.TestBase -- Start test addContactNegativeFromCsvFileTest with data: [Contact{name='Oliver', phone='123456789'}]
+4193 [main] INFO  com.phonebook.tests.TestBase -- FAILED: addContactNegativeFromCsvFileTest
+4193 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+4197 [main] INFO  com.phonebook.tests.TestBase -- FAILED: addContactNegativeFromCsvFileTest
+4197 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+4201 [main] INFO  com.phonebook.tests.TestBase -- FAILED: addContactNegativeFromCsvFileTest
+4201 [main] INFO  com.phonebook.tests.TestBase -- ========================================================
+4203 [main] INFO  com.phonebook.tests.TestBase -- FAILED: addContactNegativeFromCsvFileTest
+4203 [main] INFO  com.phonebook.tests.TestBase -- ========================================================

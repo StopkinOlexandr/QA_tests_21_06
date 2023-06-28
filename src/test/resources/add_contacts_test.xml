@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Add_contact_test" verbose="1" >
+  <test name="Negative" >
+    <classes>
+      <class name="com.phonebook.tests.AddContactTests" />
+    </classes>
+  </test>
+
+</suite>
