@@ -1,6 +1,0 @@
-672  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
-  C:\Users\stnal\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
-
-2759 [main] INFO  com.phonebook.tests.TestBase -- Start test existedUserRegistrationNegativeTest with data: []
-23604 [main] INFO  com.phonebook.tests.TestBase -- FAILED: existedUserRegistrationNegativeTest
-23605 [main] INFO  com.phonebook.tests.TestBase -- ========================================================

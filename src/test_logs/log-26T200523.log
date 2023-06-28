@@ -1,4 +1,0 @@
-725  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
-  C:\Users\stnal\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
-
-2867 [main] INFO  com.phonebooks.tests.TestBase -- Start test addContactPositiveFromDataProviderTest

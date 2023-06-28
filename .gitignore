@@ -1,6 +1,11 @@
 .gradle
-**/build/
-!src/**/build/
+#!src/**/build/
+/build/classes/
+/build/generated/
+/build/reports/
+/build/resources/
+/build/tmp/
+
 .idea
 out/
 gradlew
@@ -8,6 +13,7 @@ gradlew/
 *.bat
 settings.gradle
 *.xml/
+/testlogs
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -26,3 +32,5 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+*.log
+*.png

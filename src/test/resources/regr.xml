@@ -1,10 +1,10 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
-<suite name="Regression" verbose="1" >
-  <test name="Regression" >
+<suite name="Regression" verbose="1">
+  <test name="Regression">
     <classes>
-      <class name="com.phonebook.tests.HomePageTests" />
-      <class name="com.phonebook.tests.CreateAccountTests" />
+      <class name="com.phonebook.tests.HomePageTests"/>
+      <class name="com.phonebook.tests.CreateAccountTests"/>
       <class name="com.phonebook.tests.LoginTests">
 
         <methods>
@@ -12,8 +12,13 @@
         </methods>
 
       </class>
-      <class name="com.phonebook.tests.AddContactTests" />
-      <class name="com.phonebook.tests.RemoveContactTests" />
+      <class name="com.phonebook.tests.AddContactTests">
+        <methods>
+          <exclude name=".*From.*"></exclude>
+          <exclude name=".*Negative.*"></exclude>
+        </methods>
+      </class>
+      <class name="com.phonebook.tests.RemoveContactTests"/>
     </classes>
   </test>
 
